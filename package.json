@@ -1,14 +1,14 @@
 {
   "name": "utif",
-  "description": "Fast and advanced TIFF decoder",
-  "version": "2.0.2",
-  "license": "MIT",
-  "main": "UTIF",
-
+  "version": "2.0.1",
+  "description": "",
+  "main": "UTIF.js",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
-    "pako": "^1.0.5",
-
-  }
+    "pako": "^1.0.5"
+  },
+  "devDependencies": {},
+  "license": "MIT"
 }
-
-
