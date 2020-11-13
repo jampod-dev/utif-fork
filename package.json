@@ -7,7 +7,6 @@
 
   "dependencies": {
     "pako": "^1.0.5",
-    "lossless-jpeg-decoder": "^1.0.0"
 
   }
 }
